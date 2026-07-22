@@ -1,6 +1,6 @@
 window.GREEN_CITY_CONFIG = {
   // หลัง Deploy Code.gs เป็น Web App ให้นำ URL ที่ลงท้ายด้วย /exec มาใส่ตรงนี้
-  API_URL: "",
+  API_URL: "https://script.google.com/macros/s/AKfycbxxJUYyDhINZ9f9NW6nFvmVL4rB6RsO0CZnyxO2sWiw1FNHF7LckBM7fNq-qCprfFQv/exec",
   REQUIRE_ONLINE_REPORTING: false,
   BRANCHES: [
     "A11 Residential - PHL2",
