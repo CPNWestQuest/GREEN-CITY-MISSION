@@ -1,0 +1,7 @@
+GREEN CITY MISSION
+คนเซ็นทรัล เปลี่ยนเมือง เปลี่ยนโลก
+Version: 2026-07-22 COMPLETE V1
+- Full 10-round green city strategy game
+- Animated semi-realistic SVG city
+- Registration and branch Other field
+- Google Sheets backend included
